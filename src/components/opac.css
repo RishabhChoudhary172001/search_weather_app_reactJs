@@ -1,0 +1,12 @@
+.opacity1 {
+
+    background-color: rgb(0, 0, 0, 0.4);
+}
+
+
+.main-box {
+    background-image: url("background.jpg");
+    display: flex;
+    height: 100vh;
+
+}
